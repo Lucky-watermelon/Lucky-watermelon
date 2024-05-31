@@ -1,10 +1,9 @@
 ### Hi there 👋
 I am a third-year undergraduate.
 
-- [Homepage](https://Watermelon-henu.github.io/)
 
 - 🔭 Studying @ HENU.
-- 🌱 I’m currently learning Pytorch, Tensorflow, segmentation, algorithm
+- 🌱 I’m currently learning Pytorch 
 ----
 
 |||
