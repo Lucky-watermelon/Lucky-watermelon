@@ -1,9 +1,8 @@
 ### Hi there 👋
-I am a third-year undergraduate.
 
 
-- 🔭 Studying @ HENU.
-- 🌱 I’m currently learning Pytorch 
+- 🔭 Studying @ CAU.
+- 🌱 I’m currently learning Pytorch, Object Detection
 ----
 
 |||
