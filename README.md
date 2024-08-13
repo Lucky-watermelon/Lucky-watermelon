@@ -25,8 +25,3 @@ I'm always eager to learn new things and improve my skills. If you're interested
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
 
 Thank you for visiting my GitHub profile! I hope you find my projects and contributions useful.
-
-
-|||
-|--|--|
-|[![HeoLis's github stats](https://github-readme-stats.vercel.app/api?username=Watermelon-henu&theme=radical&count_private=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Watermelon-henu&theme=radical&hide=javascript,html,css&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
