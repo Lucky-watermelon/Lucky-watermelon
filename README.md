@@ -18,10 +18,3 @@ Hello! I'm a first-year graduate student at China Agricultural University, speci
 ## 🌱 Learning and Growing
 
 I'm always eager to learn new things and improve my skills. If you're interested in collaborating on a project or just want to chat about deep learning and computer vision, feel free to reach out!
-
-## 📫 Contact Me
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-
-Thank you for visiting my GitHub profile! I hope you find my projects and contributions useful.
