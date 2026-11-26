@@ -2,10 +2,8 @@
 
 ## 🔍 Research Focus
 
-- **Object Detection**
 - **Deep Learning**
-- **Computer Vision**
 
-## 📂 What I Share
+- **AI Agent**
 
-- **Deep Learning Projects**
+- **Vibe Coding**
